@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I’m Aradhya Kumari</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">**Hello, I’m Aradhya Kumari**</h1>
+<h3 align="center">A passionate Engineer.</h3>
 
 <p align="center">
   <img 
